@@ -11,6 +11,7 @@ In Outcomes Based on Goals for play, the challenges included
 -adjusting data for zero value in percentages
 -hiding columns to display chart with relevant data
 -referencing correct columns for the COUNTIFS formula
+https://github.com/Ninax3/myweek1challenge/blob/main/Outcomes_vs_Goals.png
 
 ## Results
 ###Theater Outcomes by Launch Date
